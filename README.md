@@ -22,13 +22,13 @@ node setup.js
 1. Download or git clone this repository:
 
     ```bash
-    git clone https://github.com/DDoS-Leaks/browser/
+    git clone https://github.com/DDoS-Leaks/Browser/
     ```
 
 2. Navigate to the cloned repository:
 
     ```bash
-    cd browser
+    cd Browser
     ```
 
 3. Run the `browser.js` script:
